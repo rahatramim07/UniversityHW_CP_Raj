@@ -18,7 +18,7 @@ int main() {
     //problem 3
     char c;
     printf("\nEnter a character : ");
-    scanf("%c",&d);
+    scanf("%c",&c);
     printf("Your entered :%d\n",c);
 
     //problem 4
