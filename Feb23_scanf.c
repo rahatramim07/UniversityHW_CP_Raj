@@ -56,7 +56,9 @@ int main() {
     printf("Enter second number: ");
     scanf("%d", &k);
     printf("Division of entered numbers: %d\n", j / k);
-
+    //2/11=5,mane vag-fol 5 but vagshes show korche na.jodi Exactly man lage tahole float use korte hobe and printf e %d er jaigai %f use korte hobe.  
+    //r jpdi exactly dosomik er por 2 or 3 ghor man chai tahole %.2f or %.3f use korte hobe.
+    
     //problem 8
     int l;
     int m;
@@ -65,6 +67,8 @@ int main() {
     printf("Enter second number: ");
     scanf("%d", &m);    
     printf("Remainder of entered numbers: %d\n", l % m);
+    //2%11=1. jeta k diye vag korbo oi ta % er age bosbe 
+    //2%11=1 mane 2 diye 11 k vag korle vag-shess 1 thake
 
     //problem 9
     int n;
